@@ -1,4 +1,4 @@
-# @pranavms13/react-gitcard
+# react-gitcard
 
 > A Simple GitCard
 
@@ -15,12 +15,11 @@ npm install --save @pranavms13/react-gitcard
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from '@pranavms13/react-gitcard'
-import '@pranavms13/react-gitcard/dist/index.css'
+import { GitUserCard } from '@pranavms13/react-gitcard'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <GitUserCard username="pranavms13" />
   }
 }
 ```

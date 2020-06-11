@@ -1,9 +1,10 @@
 {
   "name": "@pranavms13/react-gitcard",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A Simple GitCard",
   "author": "pranavms13",
   "license": "MIT",
+  "homepage": "https://github.com/pranavms13/react-gitcard#react-gitcard",
   "repository": "pranavms13/react-gitcard",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
@@ -11,6 +12,15 @@
   "engines": {
     "node": ">=10"
   },
+  "keywords":[
+    "ReactJS",
+    "GitCard",
+    "Github",
+    "Github-Profile",
+    "GitProfile",
+    "Profile-Card",
+    "Card"
+  ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
@@ -49,5 +59,10 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.28",
+    "@fortawesome/free-brands-svg-icons": "^5.13.0",
+    "@fortawesome/react-fontawesome": "^0.1.10"
+  }
 }
