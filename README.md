@@ -26,8 +26,23 @@ class Example extends Component {
 }
 ```
 
-### Sample
 ![GitUserCard](https://github.com/pranavms13/react-gitcard/blob/master/example/GitUserCard.JPG?raw=true)
+
+### GitRepoCard Usage
+
+```jsx
+import React, { Component } from 'react'
+
+import { GitRepoCard } from '@pranavms13/react-gitcard'
+
+class Example extends Component {
+  render() {
+    return <GitRepoCard username="pranavms13" repo="whatsapp-node-api"/>
+  }
+}
+```
+![GitRepoCard](https://github.com/pranavms13/react-gitcard/blob/master/example/GitRepoCard.JPG?raw=true)
+
 
 ## License
 

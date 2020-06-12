@@ -1,9 +1,14 @@
 import React from 'react'
 
-import { GitUserCard } from '@pranavms13/react-gitcard'
+import { GitUserCard, GitRepoCard } from '@pranavms13/react-gitcard'
 
 const App = () => {
-  return <GitUserCard username="pranavms13" />
+  return (
+    <div>
+      <GitUserCard username="pranavms13" />
+      <GitRepoCard username="pranavms13" repo="whatsapp-node-api"/>
+    </div>
+    )
 }
 
 export default App
