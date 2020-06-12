@@ -12,6 +12,8 @@ npm install --save @pranavms13/react-gitcard
 
 ## Usage
 
+### GitUserCard Usage
+
 ```jsx
 import React, { Component } from 'react'
 
@@ -23,6 +25,9 @@ class Example extends Component {
   }
 }
 ```
+
+### Sample
+![GitUserCard](https://github.com/pranavms13/react-gitcard/blob/master/example/GitUserCard.JPG?raw=true)
 
 ## License
 
