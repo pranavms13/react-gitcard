@@ -2,7 +2,7 @@
 
 > A Simple GitCard
 
-[![NPM](https://img.shields.io/npm/v/@pranavms13/react-gitcard.svg)](https://www.npmjs.com/package/@pranavms13/react-gitcard) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@pranavms13/react-gitcard.svg)](https://www.npmjs.com/package/@pranavms13/react-gitcard) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Travis CI](https://api.travis-ci.com/pranavms13/react-gitcard.svg?branch=master)](https://travis-ci.com/github/pranavms13/react-gitcard)
 
 ## Install
 
