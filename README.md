@@ -53,11 +53,11 @@ class  Example  extends  Component {
 
 ![GitRepoCardDark](https://github.com/pranavms13/react-gitcard/blob/master/example/samples/GitRepoCardDark.JPG?raw=true)
 
-|   Props  |       value      |         Description        |
-|---------:|:----------------:|:--------------------------:|
-| username |  ```Github Username``` | Enter your Github username |
+|   Props  |          value         |                            Description                           |
+|---------:|:----------------------:|:----------------------------------------------------------------:|
+| username |  ```Github Username``` |                     Enter your Github username                   |
 |   repo   |  ```GitHub reponame``` | Enter your Github Repo Name <small>(only on GitRepoCard)</small> |
-|  variant | ```{"dark"||"light"}``` |    Light or dark Variant - <b>Default : Light</b> |
+|  variant | `` "dark" / "light" `` |           Light or dark Variant - <b>Default : Light</b>         |
 
 
 ## License
